@@ -59,3 +59,6 @@ excerpt_separator: "\n\n\n\n"
 # paginate
 gems: [jekyll-paginate]
 paginate: 6
+
+# language settings
+languages: ["en", "ch"]
