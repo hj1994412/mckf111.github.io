@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "你好啊 大世界!"
+title: "你好啊 大世界!"
 lang: zh_CN
 date: 2017-11-22 17:00:00 +0100
 categories: essay
