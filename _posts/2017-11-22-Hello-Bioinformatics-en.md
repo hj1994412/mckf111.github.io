@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Hello world!"
+lang: en
 date:   2017-11-22 17:00:00 +0100
 categories: essay
 tags: 碎碎念 memory
 author: Wenhu
 mathjax: true
-lang: en
 ---
 
 ## This is the first post of my own blog, [bioinfostar](http://bioinfostar.com)! Hoho, show begins~~
