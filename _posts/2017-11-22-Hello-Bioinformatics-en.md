@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Hello world!"
+title: "Hello world!"
 lang: en
-date:   2017-11-22 17:00:00 +0100
+date: 2017-11-22 17:00:00 +0100
 categories: essay
 tags: 碎碎念 memory
 author: Wenhu
