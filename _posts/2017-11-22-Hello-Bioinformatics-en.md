@@ -9,7 +9,7 @@ mathjax: true
 lang: en
 ---
 
-### This is the first post of my own blog, [bioinfostar](http://bioinfostar.com)! Hoho, show begins~~
+## This is the first post of my own blog, [bioinfostar](http://bioinfostar.com)! Hoho, show begins~~
 
 
 
