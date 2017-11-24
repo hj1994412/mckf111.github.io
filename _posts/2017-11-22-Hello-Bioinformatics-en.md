@@ -8,7 +8,6 @@ author: Wenhu
 mathjax: true
 lang: en
 ---
-_（中文版往后拉^~^）_
 
 ### This is the first post of my own blog, [bioinfostar](http://bioinfostar.com)! Hoho, show begins~~
 
