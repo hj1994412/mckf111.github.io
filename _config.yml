@@ -63,3 +63,9 @@ paginate: 6
 # add multilingual plugins
 plugins:
   - jekyll-polyglot
+
+# add multilingual settings
+languages: ["en", "zh_CN"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: true
