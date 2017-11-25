@@ -56,10 +56,7 @@ tag_dir: tag/
 # excerpt
 excerpt_separator: "\n\n\n\n"
 
-# paginate and emoji
+# paginate
 plugins: 
   - jekyll-paginate
 paginate: 6
-
-plugins:
-  - jemoji
