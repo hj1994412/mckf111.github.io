@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "你好啊 大世界!"
-lang: zh_CN
 date: 2017-11-22 17:00:00 +0100
-categories: essay
-tags: 碎碎念 memory
+categories: 随笔
+tags: 碎碎念
 author: Wenhu
 mathjax: true
 ---
