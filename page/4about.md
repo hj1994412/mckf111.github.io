@@ -48,6 +48,6 @@ Documenting my progress of learning bioinformatics step by step!
 _Welcome brains coming around_
 
 
-## Comments
+## 评论 / Comments
 
 {% include comments.html %}
