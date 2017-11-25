@@ -59,5 +59,7 @@ excerpt_separator: "\n\n\n\n"
 # paginate and emoji
 plugins: 
   - jekyll-paginate
-  - jemoji
 paginate: 6
+
+plugins:
+  - jemoji
