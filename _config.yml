@@ -6,11 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+name: Bioinfostar
+description: Bioinformatician-to-be
+url: http://bioinfostar.com
 title: Wenhu
 description: NGB
 brief-intro: Next Generation Bioinformatician
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bioinfostar.com" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
