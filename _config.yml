@@ -57,15 +57,7 @@ tag_dir: tag/
 excerpt_separator: "\n\n\n\n"
 
 # paginate
-gems: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
 paginate: 6
 
-# add multilingual plugins
-plugins:
-  - jekyll-polyglot
-
-# add multilingual settings
-languages: ["en", "zh_CN"]
-default_lang: "en"
-exclude_from_localization: ["javascript", "images", "css"]
-parallel_localization: true
