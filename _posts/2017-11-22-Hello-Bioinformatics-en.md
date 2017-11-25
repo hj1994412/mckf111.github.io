@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Hello world!"
-lang: en
 date: 2017-11-22 17:00:00 +0100
 categories: essay
 tags: memory
