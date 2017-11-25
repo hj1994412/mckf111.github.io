@@ -62,3 +62,6 @@ plugins:
   - jekyll-paginate
 paginate: 6
 
+# add atom feed
+plugins:
+  - jekyll-feed
