@@ -21,12 +21,12 @@ type: page
 
 I am now a 'wet' PhD in Heidelberg University - DKFZ. Wenhu is my first name, you could interpret it as 'peaceful tiger', in plain English, pretty charming, isn't it?
 
-Well, now I have made up my mind to enter the bioinformatics world, a real 'dry' land. I have plenty of thoughts that could not wait for the canonical low throughput experimental validation process. I would also love to rebuild my tech-stack from time to time, always enter the so-called panic zone, painful but more wonderful! Proof comes below :stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes:
+Well, now I have made up my mind to enter the bioinformatics world, a real 'dry' land. I have plenty of thoughts that could not wait for the canonical low throughput experimental validation process. I would also love to rebuild my tech-stack from time to time, always enter the so-called panic zone, painful but more wonderful! Proof comes below:
 
 * 2015.10- 德国海德堡大学博士 (PhD in Heidelberg University, Deutschland)
 * 2013.08-2015.09 供职南京血液中心，技工 (technician in Red Cross Blood Center, Nanjing, China)
-* 2010.09-2013.06 东南大学免疫学硕士，毕业时，dota已有7个年头，还是菜 (Master in immunology and dota :grin:)
-* 2005.09-2009.06 生物工程专业本科，拿过校长奖，挂过5门课 (Bachelor in Bioengineering, uhh, just keep the last half in Chinese :clap:)
+* 2010.09-2013.06 东南大学免疫学硕士，毕业时，dota已有7个年头，还是菜 (Master in immunology and dota~)
+* 2005.09-2009.06 生物工程专业本科，拿过校长奖，挂过5门课 (Bachelor in Bioengineering, uhh, just keep the last half in Chinese)
 * 2005.07 转专业 (major switch)
 * 2004.09 步入东南大学生物医学工程专业 (major in Bio-medical Engineering)
 
