@@ -30,6 +30,6 @@ type: page
 
 * [生信菜鸟团](http://www.bio-info-trainee.com/)
 
-## Comments
+## 评论 / Comments
 
 {% include comments.html %}
