@@ -9,9 +9,8 @@
 title: Wenhu
 description: NGB
 brief-intro: Next Generation Bioinformatician
-rss: anything
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://bioinfostar.com # the base hostname & protocol for your site
+url: "http://bioinfostar.com" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -24,6 +23,7 @@ weibo_username:
 zhihu_username: 
 linkedIn_username: 
 dribbble_username:
+rss: anything
 
 description_footer: 本站记录我生信之旅的沿途风景！Recording of my journey to bioinformatics!
 
@@ -61,7 +61,3 @@ excerpt_separator: "\n\n\n\n"
 plugins: 
   - jekyll-paginate
 paginate: 6
-
-# add atom feed
-plugins:
-  - jekyll-feed
