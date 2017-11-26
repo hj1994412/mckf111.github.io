@@ -21,7 +21,7 @@ type: page
 
 I am now a 'wet' PhD in Heidelberg University - DKFZ. Wenhu is my first name, you could interpret it as 'peaceful tiger', in plain English, pretty charming, isn't it?
 
-Well, now I have made up my mind to enter the bioinformatics world, a real 'dry' land. I have plenty of thoughts that could not wait for the canonical low throughput experimental validation process. I would also love to rebuild my tech-stack from time to time, always enter the so-called panic zone, painful but more wonderful! Proof comes below:
+Well, now I have made up my mind to enter the bioinformatics world, a real 'dry' land. I have plenty of thoughts that could not wait for the canonical low throughput experimental validation process. I would also love to rebuild my tech-stack from time to time, always enter the so-called panic zones, painful but more wonderful! Proof comes below:
 
 * 2015.10- 德国海德堡大学博士 (PhD in Heidelberg University, Deutschland)
 * 2013.08-2015.09 供职南京血液中心，技工 (technician in Red Cross Blood Center, Nanjing, China)
