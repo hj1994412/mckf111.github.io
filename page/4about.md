@@ -39,11 +39,11 @@ Well, now I have made up my mind to enter the bioinformatics world, a real 'dry'
 
 ## 关于本站 / About the Blog
 
-系统记录我学习生信的经验和感悟
+中英双语系统记录我学习生信的经验和感悟
 
 _欢迎大家交流讨论_
 
-Documenting my progress of learning bioinformatics step by step!
+Documenting my progress of learning bioinformatics step by step, in English and Chinese!
 
 _Welcome brains coming around_
 
