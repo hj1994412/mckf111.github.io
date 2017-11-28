@@ -36,6 +36,10 @@ Well, now I have made up my mind to enter the bioinformatics world, a real 'dry'
 * email：[Gmail](mckf11111@gmail.com)
 * Subscription: [RSS](http://bioinfostar.com/feed.xml)
 
+## 成果 / Achievements
+
+* **Cao WH**. (2015). [Tissue normalizing capacity as a key determinant of carcinogenesis: an _in silico_ simulation.](https://link.springer.com/article/10.1007%2Fs10529-014-1725-9) _Biotechnol Lett._ 37(3):551-6. doi: 10.1007/s10529-014-1725-9.
+* Dou J, He XF, **Cao WH**, et al. (2013). [Overexpression of microRNA-200c in CD44<sup>+</sup>CD133<sup>+</sup> CSCS inhibits the cellular migratory and invasion as well as tumorigenicity in mice.](https://www.ncbi.nlm.nih.gov/pubmed/?term=Cao+WH%5BAuthor%5D+and+Dou+J%5BAuthor%5D) _Cell. Mol. Biol. (Noisy-le-grand)._ Suppl 59:OL1861-8.
 
 ## 关于本站 / About the Blog
 
