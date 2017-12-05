@@ -1,10 +1,12 @@
 ---
+layout: post
 title: "Viridis Demo"
 categories: test
 tags: test1
 author: Wenhu
 mathjax: true
 ---
+
 
 ```{r include = FALSE}
 library(viridis)
