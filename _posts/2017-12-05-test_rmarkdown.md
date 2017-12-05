@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Hello world!"
+categories: test
+tags: test1
+author: Wenhu
+mathjax: true
+---
+
 The code below demonstrates two color palettes in the [viridis](https://github.com/sjmgarnier/viridis) package. Each plot displays a contour map of the Maunga Whau volcano in Auckland, New Zealand.
 
 Viridis colors
