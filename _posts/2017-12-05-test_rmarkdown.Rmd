@@ -5,6 +5,9 @@ categories: test
 tags: test1
 author: Wenhu
 mathjax: true
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 
