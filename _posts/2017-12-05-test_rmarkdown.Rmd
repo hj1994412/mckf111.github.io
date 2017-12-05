@@ -1,6 +1,10 @@
 ---
 title: "Viridis Demo"
 output: html_document
+categories: test
+tags: test1
+author: Wenhu
+mathjax: true
 ---
 
 ```{r include = FALSE}
