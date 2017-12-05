@@ -26,9 +26,29 @@ type: page
 * [R in Action](https://www.manning.com/books/r-in-action-second-edition)
 * [The Art of R Programming](https://www.amazon.de/Art-Programming-Statistical-Software-Design/dp/1593273843)
 
-## 其他博客推荐/Other recommended blogs 
+## 数据库 / Useful Databases
 
+### 癌症相关 / cancer genomics
+* [GDC](https://portal.gdc.cancer.gov/)
+* [TCGA GDAC Firehose](https://gdac.broadinstitute.org/)
+* [cBioPortal](http://www.cbioportal.org/)
+
+### 其他 / Others
+* [GTEx](https://www.gtexportal.org/home/)
+
+## 其他博客论坛推荐/Other recommended blogs and forums 
+
+* [Biostars](https://www.biostars.org/)
+* [Bioconductor support](https://support.bioconductor.org/)
+* [Stackoverflow](https://stackoverflow.com/)
 * [生信菜鸟团](http://www.bio-info-trainee.com/)
+* [生信技能树](http://www.biotrainee.com/)
+
+## 大侠 / Some Gods
+
+* [Heng Li / Mapping God](http://lh3lh3.users.sourceforge.net/index.shtml)
+* [Han Liang's Group](http://odin.mdacc.tmc.edu/~hliang1/index.html)
+* [Butte Lab](http://buttelab.ucsf.edu/)
 
 ## 评论 / Comments
 
