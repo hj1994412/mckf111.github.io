@@ -1,6 +1,5 @@
 ---
 title: "Viridis Demo"
-output: html_document
 categories: test
 tags: test1
 author: Wenhu
