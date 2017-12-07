@@ -24,7 +24,7 @@ mathjax: true
     
     + TCGA数据来源、分级及处理流程(pipeline)的具体信息，尽在维基。 [TCGA WIKI](https://wiki.nci.nih.gov/display/TCGA/TCGA+Wiki+Home)
     
-    + 生命现象的一个重要特点就是多维性（多层次性），从分子层面直至生命个体，可以划分出数个大的层次，每个层次又包含诸多细分维度，你可能觉得TCGA已经很庞大、很全面了，但其实你还可以想到很多未被纳入的层面信息。说这些，目的是谈谈**GDC**的由来，它不仅是TCGA的新东家，它还左拥右抱了好几个大型数据库，如[TARGET (Therapeutically Applicable Research To Generate Effective Treatments)](https://ocg.cancer.gov/programs/target), [CGCI (Cancer Genome Characterization Initiative)](https://ocg.cancer.gov/programs/cgci)等等，这也许是今后的大趋势，**分类数据库的整合**，以期能让研究者一站式获取各维度信息，做出更准确的发现。*这么多数据，看来不愁失业了。*
+    + 生命现象的一个重要特点就是多维性（多层次性），从分子层面直至生命个体，可以划分出数个大的层次，每个层次又包含诸多细分维度，你可能觉得TCGA已经很庞大、很全面了，但其实你还可以想到很多未被纳入的层面信息。说这些，目的是谈谈**GDC**的由来，它不仅是TCGA的新东家，它还左拥右抱了好几个大型数据库，如[TARGET (Therapeutically Applicable Research To Generate Effective Treatments)](https://ocg.cancer.gov/programs/target), [CGCI (Cancer Genome Characterization Initiative)](https://ocg.cancer.gov/programs/cgci)等等，这也许是今后的大趋势，**分类数据库的整合**，以期能让研究者一站式获取各维度信息，做出更准确的发现。*这么多数据，看来不愁失业了。*
     
 * [GDAC (Genome Data Analysis Centers)](https://cancergenome.nih.gov/abouttcga/overview/howitworks/dataanalysiscenters)：顾名思义，做数据分析的，TCGA Research Network下属的一个重要团体，成员中最为著名的就是Broad Institute的[Firehose（消防水龙）](http://firebrowse.org/)和Memorial Sloan-Kettering Cancer Center的[cbioportal](http://www.cbioportal.org/)了，简言之，它们对TCGA的原始数据进行了合并、部分处理及可视化，减少了研究人员前期数据处理的繁冗工作，提高下游功能分析的效率。
 
