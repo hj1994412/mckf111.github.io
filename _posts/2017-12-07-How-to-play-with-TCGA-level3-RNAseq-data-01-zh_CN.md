@@ -22,11 +22,11 @@ mathjax: true
     
     + TCGA数据来源、分级及处理流程(pipeline)的具体信息请多去维基逛逛 [TCGA WIKI](https://wiki.nci.nih.gov/display/TCGA/TCGA+Wiki+Home)
     
-    + 生命现象的一个重要特点就是多维性（多层面性），从分子层面（其实已经有量子生物学了）直至生命个体，可以划分出数个大的层次，每个层次又包含诸多细分维度，倘若你觉得TCGA已经很庞大、很全面了，其实你还可以想到很多未被纳入的层面信息，。说这些，目的是谈谈**GDC**的由来，它不仅是TCGA的新东家，它还左拥右抱了好几个大型数据库，如[TARGET,Therapeutically Applicable Research To Generate Effective Treatments](https://ocg.cancer.gov/programs/target), [CGCI, Cancer Genome Characterization Initiative](https://ocg.cancer.gov/programs/cgci)等等，这也许是今后的大趋势，**分类数据库的整合**，以期能让研究者一站式获取各维度信息，做出更准确的发现，所谓的精准医疗。但我只想说，搞那么多数据，这TN全是生信的活啊，不愁失业了。
-    
+    + 生命现象的一个重要特点就是多维性（多层面性），从分子层面直至生命个体，可以划分出数个大的层次，每个层次又包含诸多细分维度，你可能觉得TCGA已经很庞大、很全面了，但其实你还可以想到很多未被纳入的层面信息。说这些，目的是谈谈**GDC**的由来，它不仅是TCGA的新东家，它还左拥右抱了好几个大型数据库，如[TARGET,Therapeutically Applicable Research To Generate Effective Treatments](https://ocg.cancer.gov/programs/target), [CGCI, Cancer Genome Characterization Initiative](https://ocg.cancer.gov/programs/cgci)等等，这也许是今后的大趋势，**分类数据库的整合**，以期能让研究者一站式获取各维度信息，做出更准确的发现，所谓的精准医疗。*但我只想说，搞那么多数据，这TN全是生信的活啊，不愁失业了。*
+    
 * [GDAC, Genome Data Analysis Centers](https://cancergenome.nih.gov/abouttcga/overview/howitworks/dataanalysiscenters)：顾名思义，做数据分析的，TCGA Research Network下属的一个重要团体，成员中最为著名的就是Broad Institute的[Firehose（消防水龙）](http://firebrowse.org/)和Memorial Sloan-Kettering Cancer Center的[cbioportal](http://www.cbioportal.org/)了，简言之，它们对TCGA的原始数据进行了合并、部分处理及可视化，减少了研究人员前期数据处理的繁冗工作，极大提高了下游功能分析的效率。
 
-* [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)：著名的基因差异化表达(Defferential Expression, DE)搜索及可视化R包，本来不确定用哪个DE软件入手，陡然间发现，此包作者的实验室就在我们楼侧面，为了方便以后套磁，就选它了，*学了才发现水很深，得补补统计学*。
+* [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)：著名的基因差异化表达(Defferential Expression, DE)搜索及可视化R包，本来不确定从哪个DE软件入手，陡然间发现，此包作者的实验室就在我们楼侧面，为了方便以后套磁，就选它了，*学了才发现水很深，得补补统计学*。
 
 ## 有关数据
 ******
@@ -38,8 +38,5 @@ mathjax: true
 
 * Firehose提供了一个很简易的下载工具，[firehose_get](https://confluence.broadinstitute.org/display/GDAC/Download)，网页上有安装方法和使用举例，这个需要你的电脑有linux系统，至少要有一个[bash on windows](https://docs.microsoft.com/en-us/windows/wsl/about)。
 
-* **说句题外话，强烈建议像我一样不知如何入门的新手们买本[The Biostar Handbook](https://www.biostarhandbook.com/), 100多元钱，完全物超所值，关键是其中包含手把手教你如何配置系统，并一次性装好生信分析常用的数十种软件，从此无忧！另外，请直接看英文版，完全四级词汇，文中乐趣多多，而个人认为[生信技能树](http://www.biotrainee.com/)的翻译恰恰翻丢了这种阅读的乐趣。**
-
-
-<!-- rnb-text-end -->
+* **说句题外话，强烈建议像我一样不知如何入门的新手们买本[The Biostar Handbook](https://www.biostarhandbook.com/), 100多元钱，完全物超所值，关键是其中包含手把手教你如何配置系统，如何装bash on windows，并一次性弄好生信分析常用的数十种软件，从此无忧！另外，请直接看英文版，完全四级词汇，文中乐趣多多，而个人认为[生信技能树论坛](http://www.biotrainee.com/)中对于本书中文版的翻译恰恰翻丢了这种阅读的乐趣，反正英语是躲不掉的，刚好拿这本书练练阅读，一举两得~**
 
