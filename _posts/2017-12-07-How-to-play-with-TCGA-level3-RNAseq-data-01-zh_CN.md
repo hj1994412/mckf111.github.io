@@ -22,7 +22,7 @@ mathjax: true
 
     + 什么是癌旁组织？ ["Tumor, Matched Normal" Vs. "Normal, Matched Tumor"](https://www.biostars.org/p/86929/)
     
-    + TCGA数据来源、分级及处理流程(pipeline)的具体信息请多去维基逛逛 [TCGA WIKI](https://wiki.nci.nih.gov/display/TCGA/TCGA+Wiki+Home)
+    + TCGA数据来源、分级及处理流程(pipeline)的具体信息，尽在维基。 [TCGA WIKI](https://wiki.nci.nih.gov/display/TCGA/TCGA+Wiki+Home)
     
     + 生命现象的一个重要特点就是多维性（多层面性），从分子层面直至生命个体，可以划分出数个大的层次，每个层次又包含诸多细分维度，你可能觉得TCGA已经很庞大、很全面了，但其实你还可以想到很多未被纳入的层面信息。说这些，目的是谈谈**GDC**的由来，它不仅是TCGA的新东家，它还左拥右抱了好几个大型数据库，如[TARGET (Therapeutically Applicable Research To Generate Effective Treatments)](https://ocg.cancer.gov/programs/target), [CGCI (Cancer Genome Characterization Initiative)](https://ocg.cancer.gov/programs/cgci)等等，这也许是今后的大趋势，**分类数据库的整合**，以期能让研究者一站式获取各维度信息，做出更准确的发现，所谓的精准医疗。*但我只想说，搞那么多数据，全是生信的活啊，不愁失业了。*
     
