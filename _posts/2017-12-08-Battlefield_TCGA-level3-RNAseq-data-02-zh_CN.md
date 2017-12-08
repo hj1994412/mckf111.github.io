@@ -26,7 +26,7 @@ mathjax: true
 
 本次分析，我选择了排第二，有412个样本的**BLCA (Bladder urothelial carcinoma，膀胱尿路上皮癌)**的RNA-seq数据。
 
-<img src = "https://farm5.staticflickr.com/4728/38023598755_0da2d37dbe_b.jpg" alt = "万里长城别挡我")
+<img src = "https://farm5.staticflickr.com/4728/38023598755_0da2d37dbe_b.jpg" alt = "万里长城别挡我">
 
 > 如何区分癌组织、正常组织和对照组织样本，请参考[TCGA barcode](https://wiki.nci.nih.gov/display/TCGA/TCGA+barcode)的解释，后面筛选数据时会用到。
 
