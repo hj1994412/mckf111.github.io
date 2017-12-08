@@ -6,10 +6,10 @@ categories: Battlefield_TCGA(中文)
 tags: TCGA R DESeq2 firehose RNA-seq
 author: Wenhu
 mathjax: true
-output: 
-  html_document:
-    keep_md: true
 ---
+
+* content
+{:toc}
 
 > 本篇为第二部分，主要记录数据下载和整理过程。
 
