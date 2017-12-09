@@ -58,7 +58,15 @@ lrwxrwxrwx 1 mckf111 mckf111  31 Dec  8 14:10 unix -> /mnt/c/Users/your_user_nam
 
 进入你自设的项目文件夹，然后就可以开始下载我们要的数据了。
 
+> firehose_get 使用方法，只需记住依次四个参数(arg)即可，**参数不区分大小写**，详情可以在命令行直接输入`firehose_get`查看：
 
+> `firehose_get [flags]  RunType  Date  [disease_cohort, ... ]`
+1. `[flags]`：一般用`-tasks`，声明你要下载的数据类型，clinical？rnaseq？snp？等等
+2. `RunType`：声明数据处理级别，一般只用到两个，stddata代表level3，analyses代表level4
+3. `Date`：数据在firehose中的处理日期，一般都用最新的，latest
+4. `[disease_cohort, ...]`：声明要下载的癌症类型，诸如acc，blca等等
+
+> 简言之，就是*啥数据，啥级别，啥日子，啥肿瘤*，多写几遍就OK了。
 ```
 firehose_get -tasks rnaseq_pre stddata latest blca
 
