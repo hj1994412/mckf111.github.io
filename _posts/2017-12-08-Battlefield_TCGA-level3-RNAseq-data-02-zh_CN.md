@@ -67,6 +67,7 @@ lrwxrwxrwx 1 mckf111 mckf111  31 Dec  8 14:10 unix -> /mnt/c/Users/your_user_nam
 4. `[disease_cohort, ...]`：声明要下载的癌症类型，诸如acc，blca等等
 
 > 简言之，就是*啥数据，啥级别，啥日子，啥肿瘤*，多写几遍就OK了。
+
 ```
 firehose_get -tasks rnaseq_pre stddata latest blca
 
