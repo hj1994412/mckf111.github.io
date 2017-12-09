@@ -137,7 +137,7 @@ library(readr)
 # 导入数据
 RSEM_raw_counts <- read.table("F:/biostar/test/stddata__2016_07_15/BLCA/20160715/gdac.broadinstitute.org_BLCA.mRNAseq_Preprocess.Level_3.2016071500.0.0/rnaseq_test/BLCA.uncv2.mRNAseq_raw_counts.txt", sep = '\t', header = TRUE)
 
-# 找出癌旁组织的raw_counts矩阵
+# 找出正常组织的raw_counts矩阵
 x <- colnames(RSEM_raw_counts)
 geneID <- RSEM_raw_counts[, 1] # 把第一列geneID单独拿出来
 colnames(RSEM_raw_counts)[1] <- "geneID" # 同时给第一列设置个同样的列名
