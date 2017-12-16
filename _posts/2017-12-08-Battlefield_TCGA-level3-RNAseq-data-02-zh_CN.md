@@ -13,8 +13,6 @@ mathjax: true
 
 > 本篇为第二部分，主要记录数据下载和整理过程。
 
-
-
 ## 数据选择
 
 一开始，本来是想探索一下癌组织和正常组织(tumor_matched_normal，简称TN)的基因差异化表达情况(differential expression，简称DE)
