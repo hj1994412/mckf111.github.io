@@ -15,10 +15,12 @@ mathjax: true
 
 
 
-
 ## 名词及资源
 
 * [TCGA (The Cancer Genome Atlas)](https://cancergenome.nih.gov/)：**人类**癌症基因组图谱，数据库，主要用来收集癌症病人癌组织及癌旁组织标本以及极少量正常人相应组织的对照标本（*并非每种癌都有*），通过多种高通量方法，获取DNA、RNA乃至蛋白多个分子层面的数据；另一方面，它还收集了病人的临床宏观层面信息（诸如肿瘤的分期和分级，患者生存时间，患者的年龄、性别、种族等等），更进一步，该数据库对原始数据进行了标准化处理，并做了常见的后续功能分析，但缺乏一定的针对性。目前，它已经收录了超过10000名病人，30多种癌症的高达2.5PB的多维数据。**从2016年开始，TCGA的数据库已经迁移到[GDC (Genomic Data Commons, 基因组数据共享)](https://gdc.cancer.gov/)网站去了，官网称2017年TCGA将会关闭，距2018还有一个月不到，加油！**
+
+
+
 
     + 什么是癌旁组织？ ["Tumor, Matched Normal" Vs. "Normal, Matched Tumor"](https://www.biostars.org/p/86929/)
     
