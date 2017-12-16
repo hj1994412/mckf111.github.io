@@ -255,7 +255,6 @@ plotCounts(dds_BLCA, gene = topGene, intgroup = c("condition")) # DESeq2包自�
 
 <img src="http://res.cloudinary.com/dgnsud9ue/image/upload/v1513419132/unnamed-chunk-8-1_lteem4.png" alt="万里长城别挡我">
 
-![](2017-12-09-Battlefield_TCGA-level3-RNAseq-data-03-zh_CN_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
 
 ```r
 bottomGene <- rownames(results_BLCA)[which.max(results_BLCA$padj)] # 找出padj值最高的基因
@@ -264,7 +263,6 @@ plotCounts(dds_BLCA, gene = bottomGene, intgroup = c("condition"))
 
 <img src="http://res.cloudinary.com/dgnsud9ue/image/upload/v1513419132/unnamed-chunk-8-2_anwono.png" alt="万里长城别挡我">
 
-![](2017-12-09-Battlefield_TCGA-level3-RNAseq-data-03-zh_CN_files/figure-html/unnamed-chunk-8-2.png)<!-- -->
 
 > **结果排序**
 
