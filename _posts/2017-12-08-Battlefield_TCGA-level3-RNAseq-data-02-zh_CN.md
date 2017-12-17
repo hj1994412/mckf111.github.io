@@ -275,6 +275,7 @@ gc()
     + 有关解压后的文件内容详情请看此博文：[Understanding TCGA mRNA Level3 analysis results files from FireBrowse](http://zyxue.github.io/2017/06/02/understanding-TCGA-mRNA-Level3-analysis-results-files-from-firebrose.html)。
 
 2. **什么是RSEM (RNA-Seq by Expectation Maximization)？**
+
     + 它是一种对转录本(transcript)计数的算法，得到的raw_counts与传统方法得到的有较大差别，最显见的就是counts是实数而不是整数，有小数点，而后续的DE分析需要整数counts，处理方法下节再说
     
     
