@@ -109,10 +109,13 @@ ascp --help
 
     + 一般来说，EBI的sra文件前面的地址也都是一样的`vol1/fastq/...`，那么写脚本批量下载也就不难了！
 
+> 好了，就写到这里，赶快试试看吧！
+
+
 ## 参考资料
 
 [使用速铂Aspera下载NGS数据](http://boyun.sh.cn/bio/?p=1933)
 
 [Aspera助力快速下载NCBI基因组与SRA原始数据](https://mp.weixin.qq.com/s/oCmng_iD3-z_BDx6cUC4Fw)
 
-> 好了，就写到这里，赶快试试看吧！
+
