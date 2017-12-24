@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rapidly Downloading of SRA, SAM and Fastq Files"
+title: "Rapid Downloading of SRA, SAM and Fastq Files"
 author: Wenhu
 date: 2017-12-24
 mathjax: yes
