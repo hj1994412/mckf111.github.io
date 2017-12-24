@@ -11,7 +11,7 @@ categories: Data_download(中文)
 * content
 {:toc}
 
-> 这是个简短的教程，目的是介绍几种比较方便快捷的下载SRA文件的方法。
+> 这是个简短的教程，目的是介绍几种比较方便快捷的下载SRA、SAM及Fastq文件的方法。
 
 ## NCBI-SRA和EBI-ENA数据库
 
