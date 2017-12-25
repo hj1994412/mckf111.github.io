@@ -30,7 +30,7 @@ categories: Data_download
 
 2. **Methods**: 
 
-    + **First Choice -- [Aspera Connect](http://downloads.asperasoft.com/en/downloads/8?list)** It is a commercial high speed file transfer software produced by IBM. Since it has contract with NCBI and EBI, we could use it to download data in those two databases **for free**. **Many sites can transfer data at 200-500Mbps. and nearly all sites can transfer at faster than 10Mbps.**
+    + **First Choice -- [Aspera Connect](http://downloads.asperasoft.com/en/downloads/8?list)**. It is a commercial high speed file transfer software produced by IBM. Since it has contract with NCBI and EBI, we could use it to download data in those two databases **for free**. **Many sites can transfer data at 200-500Mbps. and nearly all sites can transfer at faster than 10Mbps.**
 
     + If the Aspera Connect doesn't work, I would recommend the **[prefetch](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=toolkit_doc&f=prefetch) command in sratoolkit**.
 
