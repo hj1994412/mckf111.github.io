@@ -4,7 +4,7 @@ title: "High Speed Downloading of SRA, SAM and Fastq Files"
 author: Wenhu
 date: 2017-12-24
 mathjax: yes
-tags: SRA Aspera prefetch fastq-dump
+tags: SRA ascp Aspera_Connect
 categories: Data_download
 ---
 
