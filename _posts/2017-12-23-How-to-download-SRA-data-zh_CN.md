@@ -36,7 +36,7 @@ categories: Data_download(中文)
 
     + 最后，使用sratoolkit中的[fastq-dump](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=toolkit_doc&f=fastq-dump)和[sam-dump](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=toolkit_doc&f=sam-dump)命令下载，**如果fastq-dump不稳定，推荐大家尝试[Biostar Handbook](https://www.biostarhandbook.com/)中的[wonderdump](http://data.biostarhandbook.com/scripts/wonderdump.sh)脚本**。
 
-> **警告**：不要用wget或curl去下载sra文件，这会导致下载的文件不完整！
+> **警告**：尽量不要用wget或curl去下载sra文件，某些情况下会导致下载的文件不完整！
 
 ## Aspera Connect命令行工具ascp的安装
 
