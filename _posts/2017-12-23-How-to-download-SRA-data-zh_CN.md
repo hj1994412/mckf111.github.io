@@ -4,7 +4,7 @@ title: "SRA、SAM以及Fastq文件高速下载方法"
 author: Wenhu
 date: 2017-12-23
 mathjax: yes
-tags: SRA Aspera prefetch fastq-dump
+tags: SRA ascp Aspera_Connect
 categories: Data_download(中文)
 ---
 
