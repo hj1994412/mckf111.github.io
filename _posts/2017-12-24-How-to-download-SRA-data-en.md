@@ -36,7 +36,7 @@ categories: Data_download
 
     + At last, please try [fastq-dump](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=toolkit_doc&f=fastq-dump) and [sam-dump](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=toolkit_doc&f=sam-dump) in sratoolkit. **If the connection of `fastq-dump` is unstable, I would suggest the [wonderdump](http://data.biostarhandbook.com/scripts/wonderdump.sh) script in [Biostar Handbook](https://www.biostarhandbook.com/)**.
 
-> **Warning**: Don't use `wget` or `curl` to download, it would cause incompletion in downloaded sra files.
+> **Warning**: Try not to use `wget` or `curl` to download, it might cause incompletion in downloaded sra files.
 
 ## Installation of Aspera Connect command line tool -- `ascp`
 
