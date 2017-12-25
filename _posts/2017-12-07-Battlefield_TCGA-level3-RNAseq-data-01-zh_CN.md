@@ -3,7 +3,7 @@ layout: post
 title: "TCGA大作战——初步分析RNA-seq数据01"
 date: 2017-12-07
 categories: Battlefield_TCGA(中文)
-tags: TCGA R DESeq2 firehose RNA-seq
+tags: TCGA RNA-seq
 author: Wenhu
 mathjax: true
 ---
