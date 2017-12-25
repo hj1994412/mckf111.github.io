@@ -4,7 +4,7 @@ title: "Fundamental Analysis of TCGA RNA-seq Data-03"
 author: Wenhu
 date: 2017-12-18
 mathjax: yes
-tags: TCGA R DESeq2 firehose RNA-seq
+tags: TCGA RNA-seq
 categories: Battlefield_TCGA
 ---
 
