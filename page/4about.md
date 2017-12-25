@@ -33,7 +33,7 @@ Well, now I have made up my mind to enter the bioinformatics world, a real 'dry'
 ## 联系我 / Contact
 
 * GitHub：[mckf111](https://github.com/mckf111)
-* email：[Gmail](mckf11111@gmail.com)
+* email：<mckf11111@gmail.com>
 * Subscription: [RSS](http://bioinfostar.com/feed.xml)
 
 ## 成果 / Achievements
