@@ -12,8 +12,7 @@ mathjax: true
 {:toc}
 
 > This is the second part of the overall analysis pipeline, mainly documenting how to download and process data.
-
-> Please subscribe [RSS](http://bioinfostar.com/feed.xml) if you wanna receive my newest post! 
+ 
 
 ## Data Selection
 
@@ -404,3 +403,5 @@ devtools::session_info()
 ##  zlibbioc               1.24.0   2017-10-31 Bioconductor
 ```
 
+
+> Please subscribe [RSS](http://bioinfostar.com/feed.xml) if you wanna receive my newest post!
