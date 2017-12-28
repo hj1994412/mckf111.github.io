@@ -277,3 +277,6 @@ write.csv(results_ordered_dataframe, file = "results.csv")
 > Afterwards, you could carry on all kinds of analysis based on `results_BLCA`, such as GO analysis, clustering heatmap, etc. I would not illustrate them in this series of posts.
 
 > __*Actually, I am still learning them...*__
+
+
+> Please subscribe [RSS](http://bioinfostar.com/feed.xml) if you wanna receive my newest post!
