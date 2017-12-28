@@ -13,6 +13,8 @@ mathjax: true
 
 > This is the second part of the overall analysis pipeline, mainly documenting how to download and process data.
 
+> Please subscribe [RSS](http://bioinfostar.com/feed.xml) if you wanna receive my newest post! 
+
 ## Data Selection
 
 I would like to compare the gene differential expression (DE) between tumor and tumor_matched_normal (TN) samples
@@ -401,3 +403,4 @@ devtools::session_info()
 ##  yaml                   2.1.15   2017-12-01 CRAN (R 3.4.3)
 ##  zlibbioc               1.24.0   2017-10-31 Bioconductor
 ```
+
