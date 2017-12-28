@@ -41,3 +41,5 @@ mathjax: true
 * Firehose提供了一个很简易的下载工具，[firehose_get](https://confluence.broadinstitute.org/display/GDAC/Download)，网页上有安装方法和使用举例，这个需要电脑有linux系统，至少要有一个[bash on windows](https://docs.microsoft.com/en-us/windows/wsl/about)。
 
 * **说句题外话，强烈建议像我一样不知如何入门的新手们买本[The Biostar Handbook](https://www.biostarhandbook.com/), 100多元钱，完全物超所值，关键是其中包含手把手教你如何配置系统，如何装bash on windows，并一次性弄好生信分析常用的数十种软件，从此无忧！另外，个人推荐直接看英文版，完全是四级词汇，作者文笔风趣，何况，反正英语是躲不掉的，刚好拿这本书练练阅读，一举两得~**
+
+> 要想关注我的最新博文，请订阅[RSS](http://bioinfostar.com/feed.xml)！
