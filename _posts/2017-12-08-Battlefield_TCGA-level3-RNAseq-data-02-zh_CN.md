@@ -406,3 +406,5 @@ devtools::session_info()
 ##  yaml                   2.1.15   2017-12-01 CRAN (R 3.4.3)
 ##  zlibbioc               1.24.0   2017-10-31 Bioconductor
 ```
+
+> 要想关注我的最新博文，请订阅[RSS](http://bioinfostar.com/feed.xml)！
