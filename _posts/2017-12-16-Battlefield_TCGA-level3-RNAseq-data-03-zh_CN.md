@@ -279,3 +279,5 @@ write.csv(results_ordered_dataframe, file = "results.csv")
 > 后续，大家可以继续利用`results_BLCA`做各种功能分析和可视化，譬如GO分析，聚类热图等等，在此暂时不展开讲。
 
 > __*其实，是我还不太会。。。*__
+
+> 要想关注我的最新博文，请订阅[RSS](http://bioinfostar.com/feed.xml)！
