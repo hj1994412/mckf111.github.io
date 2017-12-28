@@ -18,3 +18,6 @@ I am now a 'wet' PhD in biology transferring to 'dry' secretly (_hiding from my 
 I will share my experience and thoughts here, welcome any smart thoughts and discussions!
 
 At the time I am writing this page my wife, my little son and I are living in Heidelberg, Deutschland. Our motherland is China, forever. (Not from Mapping God, uhh, not all...)
+
+
+> Please subscribe [RSS](http://bioinfostar.com/feed.xml) if you wanna receive my newest post! 
