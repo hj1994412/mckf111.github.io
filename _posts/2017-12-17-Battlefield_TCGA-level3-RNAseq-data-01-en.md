@@ -41,3 +41,5 @@ About how to download TCGA data, there is a [compilation post here](http://www.b
 * There is a very simple data downloading tool, [firehose_get](https://confluence.broadinstitute.org/display/GDAC/Download), it contains installation guide and examples as well. It is required to have linux in your computer, at least one [bash on windows](https://docs.microsoft.com/en-us/windows/wsl/about).
 
 * **P.S. I strongly recommend the new fish like me to buy [The Biostar Handbook](https://www.biostarhandbook.com/), only around 30 euros, but you could get much more than that, including how to set up your computer and install dozens of bioinformatics tools step by step. Furthermore, the book is easy reading and the author is very funny.**
+
+> Please subscribe [RSS](http://bioinfostar.com/feed.xml) if you wanna receive my newest post! 
