@@ -48,6 +48,7 @@ type: page
 * [Stackoverflow](https://stackoverflow.com/)
 * [生信菜鸟团](http://www.bio-info-trainee.com/)
 * [生信技能树](http://www.biotrainee.com/)
+* [One Tip Per Day](http://onetipperday.sterding.com/)
 
 ## 大侠 / Some Gods
 
