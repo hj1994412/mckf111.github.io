@@ -13,6 +13,7 @@ mathjax: true
 
 > 本篇为第一部分，主要记录重要资源地址以及TCGA数据的下载方式。
 
+
 ## 名词及资源
 
 * [TCGA (The Cancer Genome Atlas)](https://cancergenome.nih.gov/)：**人类**癌症基因组图谱，数据库，主要用来收集癌症病人癌组织及癌旁组织标本以及极少量正常人相应组织的对照标本（*并非每种癌都有*），通过多种高通量方法，获取DNA、RNA乃至蛋白多个分子层面的数据；另一方面，它还收集了病人的临床宏观层面信息（诸如肿瘤的分期和分级，患者生存时间，患者的年龄、性别、种族等等），更进一步，该数据库对原始数据进行了标准化处理，并做了常见的后续功能分析，但缺乏一定的针对性。目前，它已经收录了超过10000名病人，30多种癌症的高达2.5PB的多维数据。**从2016年开始，TCGA的数据库已经迁移到[GDC (Genomic Data Commons, 基因组数据共享)](https://gdc.cancer.gov/)网站去了，官网称2017年TCGA将会关闭，距2018还有一个月不到，加油！**
@@ -29,6 +30,7 @@ mathjax: true
 * [GDAC (Genome Data Analysis Centers)](https://cancergenome.nih.gov/abouttcga/overview/howitworks/dataanalysiscenters)：顾名思义，做数据分析的，TCGA Research Network下属的一个重要团体，成员中最为著名的就是Broad Institute的[Firehose（消防水龙）](http://firebrowse.org/)和Memorial Sloan-Kettering Cancer Center的[cbioportal](http://www.cbioportal.org/)了，简言之，它们对TCGA的原始数据进行了合并、部分处理及可视化，减少了研究人员前期数据处理的繁冗工作，提高下游功能分析的效率。
 
 * [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)：著名的基因差异化表达(Defferential Expression, DE)搜索及可视化R包，本来不确定从哪个DE软件入手，陡然间发现，此包作者的实验室就在我们楼侧面，为了方便以后套磁，就选它了，*学了才发现水很深，我得补补统计学*。
+
 
 ## 有关数据
 
