@@ -46,4 +46,4 @@ mathjax: true
 
 > 要想关注我的最新博文，请订阅[RSS](http://bioinfostar.com/feed.xml)！
 
-<iframe width="560" height="420" src="http://changba.com/s/1ch58qGxF3VKoEMOGFtjQg#"></iframe>
+<iframe src="http://changba.com/s/1ch58qGxF3VKoEMOGFtjQg#"></iframe>
