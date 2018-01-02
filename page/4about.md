@@ -9,6 +9,8 @@ type: page
 * content
 {:toc}
 
+<audio controls="controls" autoplay="autoplay" loop="loop"><source src="http://changba.com/s/1ch58qGxF3VKoEMOGFtjQg"></audio>
+
 ## 关于我 / Informal CV
 
 目前博士就读于德国海德堡大学-德国癌症研究中心，名wenhu。
