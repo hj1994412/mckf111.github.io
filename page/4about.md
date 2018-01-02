@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-<audio controls="controls" autoplay="autoplay" loop="loop" src="http://changba.com/s/1ch58qGxF3VKoEMOGFtjQg"></audio>
+<audio controls="controls" autoplay="autoplay" loop="loop" src="http://changba.com/redirect_song.php?enc_workid=1ch58qGxF3VKoEMOGFtjQg&#"></audio>
 
 ## 关于我 / Informal CV
 
