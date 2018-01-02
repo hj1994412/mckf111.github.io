@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-<audio controls="controls" autoplay="autoplay" loop="loop" src="http://changba.com/redirect_song.php?enc_workid=1ch58qGxF3VKoEMOGFtjQg&#"></audio>
+<audio controls="controls" autoplay="autoplay" loop="loop" src="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http%3A%2F%2Fnode.kg.qq.com%2Fplay%3Fs%3D4kyIC_4cJfi6a4YS%26lang%3Dzh_Hans&title=%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E7%95%94&desc=%E7%9E%8E%E5%94%B1%E4%B9%8B%E7%8E%8B%E5%94%B1%E7%9A%84%E3%80%8A%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E7%95%94%E3%80%8B%E5%A4%AA%E6%A3%92%E4%BA%86%EF%BC%8C%E5%BF%AB%E6%9D%A5%E5%90%AC%E5%90%AC%EF%BC%88%E6%9D%A5%E8%87%AA%E5%85%A8%E6%B0%91K%E6%AD%8C%EF%BC%8C%E7%AB%8B%E5%8D%B3%E4%B8%8B%E8%BD%BD(%20%E5%85%A8%E6%B0%91K%E6%AD%8C%EF%BC%8CKTV%E4%BA%A4%E5%8F%8B%E7%A4%BE%E5%8C%BA%20https%3A%2F%2Fc.y.qq.com%2Fr%2F8zQU%20)&summary=%E7%9E%8E%E5%94%B1%E4%B9%8B%E7%8E%8B&pics=http%3A%2F%2Fimgcache.qq.com%2Fmusic%2Fphoto%2Fmid_album_300%2Fb%2FZ%2F002g0JpA4aQ6bZ.jpg"></audio>
 
 ## 关于我 / Informal CV
 
