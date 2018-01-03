@@ -11,7 +11,7 @@ type: page
 
 <audio controls="controls" autoplay="autoplay" loop="loop" src="http://res.cloudinary.com/dgnsud9ue/video/upload/v1514900330/cheng_du.mp3">我的歌声</audio>
 
-## 关于我 / Informal CV
+## 在下 / Informal CV
 
 目前博士就读于德国海德堡大学-德国癌症研究中心，名wenhu。
 
