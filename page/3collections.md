@@ -28,6 +28,7 @@ type: page
 
 ### R语言入门/R language for beginner
 
+* [swirl: Learn R, in R](http://swirlstats.com/)
 * [R in Action](https://www.manning.com/books/r-in-action-second-edition)
 * [The Art of R Programming](https://www.amazon.de/Art-Programming-Statistical-Software-Design/dp/1593273843)
 
