@@ -57,6 +57,7 @@ type: page
 * [Han Liang's Group](http://odin.mdacc.tmc.edu/~hliang1/index.html)
 * [Butte Lab](http://buttelab.ucsf.edu/)
 * [Y叔 / guangchuangyu](https://guangchuangyu.github.io/)
+* [HADLEY WICKHAM](http://hadley.nz/)
 
 ## 评论 / Comments
 
