@@ -119,4 +119,4 @@ ascp --help
 [Aspera助力快速下载NCBI基因组与SRA原始数据](https://mp.weixin.qq.com/s/oCmng_iD3-z_BDx6cUC4Fw)
 
 
-> 要想关注我的最新博文，请订阅[RSS](http://bioinfostar.com/feed.xml)！
+> 关注我的最新博文，请订阅[my RSS](http://bioinfostar.com/feed.xml) ~~
