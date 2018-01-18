@@ -280,4 +280,4 @@ write.csv(results_ordered_dataframe, file = "results.csv")
 
 > __*其实，是我还不太会。。。*__
 
-> 要想关注我的最新博文，请订阅[RSS](http://bioinfostar.com/feed.xml)！
+> 关注我的最新博文，请订阅[my RSS](http://bioinfostar.com/feed.xml) ~~
