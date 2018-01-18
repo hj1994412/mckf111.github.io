@@ -407,4 +407,4 @@ devtools::session_info()
 ##  zlibbioc               1.24.0   2017-10-31 Bioconductor
 ```
 
-> 要想关注我的最新博文，请订阅[RSS](http://bioinfostar.com/feed.xml)！
+> 关注我的最新博文，请订阅[my RSS](http://bioinfostar.com/feed.xml) ~~
