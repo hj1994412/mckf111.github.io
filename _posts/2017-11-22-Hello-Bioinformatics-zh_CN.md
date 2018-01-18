@@ -21,4 +21,4 @@ mathjax: true
 
 写此文之时，我是一名在读博士（还是做实验...），妻子、儿子和我正生活在德国一个美丽的小城——海德堡，洋装虽然穿在身，我心依然是中国心！
 
-> 要想关注我的最新博文，请订阅[RSS](http://bioinfostar.com/feed.xml)！
+> 关注我的最新博文，请订阅[RSS](http://bioinfostar.com/feed.xml) :kissing_heart:
