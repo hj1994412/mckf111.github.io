@@ -15,7 +15,7 @@ categories: Wenhu's_Guide_to_R
 
 ## Why I learn R
 
-Because I swithed my major to bioinformatics in which data manipulation is the core, on the other hand, the [R programming language](https://cran.r-project.org/) is Irreplaceable now for data science, so learning R is a necessity and must! What's more, it would be much easier learning other programming languages after you conquer one.
+Because I swithed my major to bioinformatics in which data manipulation is the core, on the other hand, the [R programming language](https://cran.r-project.org/) is irreplaceable now for data science, so learning R is a necessity and must! What's more, it would be much easier learning other programming languages after you conquer one.
 
 
 
