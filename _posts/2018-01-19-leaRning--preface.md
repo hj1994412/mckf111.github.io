@@ -5,7 +5,7 @@ author: Wenhu
 date: 2018-01-19
 mathjax: yes
 tags: R
-categories: Wenhu's_Guide_to_R
+categories: leaRning
 ---
 
 * content
