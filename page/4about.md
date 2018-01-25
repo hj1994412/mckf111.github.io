@@ -13,7 +13,7 @@ type: page
 
 ## 在下 / Informal CV
 
-目前博士就读于德国海德堡大学-德国癌症研究中心，名wenhu。
+目前博士就读于德国海德堡大学-德国癌症研究中心，名Wenhu，姓Cao。
 
 徜徉“湿”生物学十余年，临了，下定决心转“干”。
 
@@ -50,7 +50,7 @@ Well, now I have made up my mind to enter the bioinformatics world, a real 'dry'
 
 _欢迎大家交流讨论_
 
-Documenting my progress of learning bioinformatics step by step, in English and Chinese!
+Documenting my progress of learning bioinformatics step by step, in both English and Chinese!
 
 _Welcome brains coming around_
 
