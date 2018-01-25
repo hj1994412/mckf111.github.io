@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-<audio controls="controls" autoplay="autoplay" loop="loop" src="http://res.cloudinary.com/dgnsud9ue/video/upload/v1514900330/cheng_du.mp3">我的歌声</audio>
+<audio controls="controls" loop="loop" src="http://res.cloudinary.com/dgnsud9ue/video/upload/v1514900330/cheng_du.mp3">我的歌声</audio>
 
 ## 在下 / Informal CV
 
