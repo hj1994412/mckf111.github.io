@@ -125,7 +125,7 @@ Above are the commonly used PCRE syntax, if you want to know the details, please
 
 ## How to use regex in R
 
-There are normally two ways doing pattern match in R, one is using the functions in `base` package, another is using a series of functions in `stringr` package, I will only introduce the former, however, I strongly suggest you to discover the beauty of the latter, you could get a quick start in [R for data science - Strings](http://r4ds.had.co.nz/strings.html).
+There are normally two ways doing pattern match in R, one is using the functions in `base` package, another is using a series of functions in `stringr` package, I will only introduce the former, however, I strongly suggest you to discover the beauty of the latter, you could get a quick start in [R for data science - Strings](http://r4ds.had.co.nz/strings.html). (adapted from [Regular Expressions with The R Language](https://www.regular-expressions.info/rlanguage.html))
 
 ### Matching
 
