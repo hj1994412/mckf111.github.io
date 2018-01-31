@@ -11,7 +11,7 @@ categories: Battlefield_TCGA(中文)
 * content
 {:toc}
 
-> 本篇为第三部分，主要记录使用DESeq2包做差异分析。
+> 本篇为第三部分，主要记录使用DESeq2包做差异分析。**欢迎转载，但请注明出处！**
 
 ## 基本原则
 
