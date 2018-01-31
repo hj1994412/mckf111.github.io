@@ -11,7 +11,7 @@ mathjax: true
 * content
 {:toc}
 
-> This is the first part of the overall analysis pipeline, mainly documenting introductions of important resources and the data downloading methods.
+> This is the first part of the overall analysis pipeline, mainly documenting introductions of important resources and the data downloading methods. **Repost by indicating the source please!**
 
 ## Resources
 
