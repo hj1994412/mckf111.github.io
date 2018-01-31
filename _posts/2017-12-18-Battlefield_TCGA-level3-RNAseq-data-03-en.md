@@ -11,7 +11,7 @@ categories: Battlefield_TCGA
 * content
 {:toc}
 
-> This is the last part of the overall analysis pipeline, mainly documenting how to use DESeq2 package for fundamental DE analysis.
+> This is the last part of the overall analysis pipeline, mainly documenting how to use DESeq2 package for fundamental DE analysis. **Repost by indicating the source please!**
 
 ## Principle
 
