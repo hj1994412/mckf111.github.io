@@ -17,14 +17,14 @@ mathjax: true
 
 一开始，本来是想探索一下癌组织和正常组织(tumor_matched_normal，简称TN)的基因差异化表达情况(differential expression，简称DE)
 
-为了加快分析速度，所以选了在Firehose上排在第一位的**ACC (Adrenocortical carcinoma，肾上腺皮质癌)**，因为只有区区92个样本，可下载完竟发现，其中并没有TN数据
+为了加快分析速度，所以选了在Firehose上排在第一位的ACC (Adrenocortical carcinoma，肾上腺皮质癌)，因为只有区区92个样本，可下载完竟发现，其中并没有TN数据
 
 
 
 
 原来并非所有癌症的RNA-seq数据都包括了TN样本，我对目前GDC中癌症RNA-seq数据做了个简单统计，见下图
 
-本次分析，我选择了排第二，有412个样本的**BLCA (Bladder urothelial carcinoma，膀胱尿路上皮癌)**的RNA-seq数据。
+本次分析，我选择了排第二，有412个样本的BLCA (Bladder urothelial carcinoma，膀胱尿路上皮)的RNA-seq数据。
 
 <img src = "https://farm5.staticflickr.com/4728/38023598755_0da2d37dbe_b.jpg" alt = "万里长城别挡我">
 
