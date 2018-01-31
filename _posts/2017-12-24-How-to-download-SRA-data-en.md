@@ -11,7 +11,7 @@ categories: Data_download
 * content
 {:toc}
 
-> This is a brief tutorial about methods of downloading sra, sam and fastq files, mainly focusing on Aspera Connect.
+> This is a brief tutorial about methods of downloading sra, sam and fastq files, mainly focusing on Aspera Connect. **Repost by indicating the source please!**
 
 ## NCBI-SRA and EBI-ENA databases
 
