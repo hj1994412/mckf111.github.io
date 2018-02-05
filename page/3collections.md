@@ -38,6 +38,7 @@ type: page
 * [GDC](https://portal.gdc.cancer.gov/)
 * [TCGA GDAC Firehose](https://gdac.broadinstitute.org/)
 * [cBioPortal](http://www.cbioportal.org/)
+* [ICGC](https://dcc.icgc.org/)
 
 ### 其他 / Others
 * [GTEx](https://www.gtexportal.org/home/)
