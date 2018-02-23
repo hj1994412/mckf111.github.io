@@ -59,8 +59,8 @@ type: page
 * [Heng Li / Mapping God](http://lh3lh3.users.sourceforge.net/index.shtml)
 * [Han Liang's Group](http://odin.mdacc.tmc.edu/~hliang1/index.html)
 * [Butte Lab](http://buttelab.ucsf.edu/)
-* [Y叔 / guangchuangyu](https://guangchuangyu.github.io/)
 * [HADLEY WICKHAM](http://hadley.nz/)
+* [Yihui Xie](https://yihui.name/)
 
 ## 评论 / Comments
 
