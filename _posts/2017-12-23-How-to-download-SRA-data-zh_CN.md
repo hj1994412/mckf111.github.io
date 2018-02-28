@@ -5,7 +5,7 @@ author: Wenhu
 date: 2017-12-23
 mathjax: yes
 tags: SRA ascp Aspera_Connect
-categories: Data_download(中文)
+categories: Data_Manipulation(中文)
 ---
 
 * content
