@@ -19,6 +19,10 @@ First of all, the figures I mention in this post is not the picture coming out o
 
 **Most of the contents here are edited from [How to Create Publication-Quality Figures](http://b.nanes.org/figures/index.html)**, I strongly recommend clicking that link, you won't regret!
 
+
+
+
+
 ## The tools
 
 Most of us may feel faint when we shoot a glance at the price tags of photoshop or illustrator, we are just students! What's more, many commercial softwares suck compared to similar open-source buddies. What I will introduce here is two popular, well-documented **free** softwares: 
