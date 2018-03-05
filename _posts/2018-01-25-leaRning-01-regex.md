@@ -5,7 +5,7 @@ author: Wenhu
 date: 2018-01-25
 mathjax: yes
 tags: R regex
-categories: leaRning
+categories: leaRning-fundamental
 ---
 
 * content
