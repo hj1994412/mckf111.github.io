@@ -5,7 +5,7 @@ author: Wenhu
 date: 2018-01-19
 mathjax: yes
 tags: R
-categories: leaRning
+categories: leaRning-fundamental
 ---
 
 * content
