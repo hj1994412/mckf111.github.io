@@ -25,7 +25,7 @@ First of all, the figures I mention in this post are not the pictures coming out
 
 ## The tools
 
-Most of us may feel faint when we shoot a glance at the price tags of photoshop or illustrator, we are just students! What's more, many commercial softwares suck compared to similar open-source buddies. What I will introduce here is two popular, well-documented **free** softwares: 
+Most of us may feel faint when we shoot a glance at the price tag of photoshop or illustrator, we are just students! What's more, many commercial softwares suck compared to similar open-source buddies. What I will introduce here is two popular, well-documented **free** softwares: 
 
 1. [Inkscape](https://inkscape.org/en/)：typesetting, text annotating, etc. (easy to learn and versatile)
 
