@@ -15,7 +15,7 @@ categories: Data_Manipulation
 
 ## Figures, not pictures
 
-First of all, the figures I mention in this post is not the picture coming out of scientific softwares, also not shot by equipments like fluorescence microscopy, **they are what you see in the published articles**, the former pics could be considered as the building blocks of figures.
+First of all, the figures I mention in this post are not the pictures coming out of scientific softwares, also not shot by equipments like fluorescence microscopy, **they are what you see in the published articles**, the former pics could be considered as the building blocks of figures.
 
 **Most of the contents here are edited from [How to Create Publication-Quality Figures](http://b.nanes.org/figures/index.html)**, I strongly recommend clicking that link, you won't regret!
 
