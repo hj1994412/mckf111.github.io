@@ -11,6 +11,8 @@ type: page
 
 <audio controls="controls" loop="loop" src="http://res.cloudinary.com/dgnsud9ue/video/upload/v1514900330/cheng_du.mp3">我的歌声</audio>
 
+> # 成功只有一条路，那就是坚持，更重要的是，要把握住路的方向！
+
 ## 在下 / Informal CV
 
 目前博士就读于德国海德堡大学-德国癌症研究中心，名Wenhu，姓Cao。
