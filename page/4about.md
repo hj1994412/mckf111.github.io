@@ -40,7 +40,7 @@ Well, now I have made up my mind to enter the bioinformatics world, a real 'dry'
 * Subscription: [RSS](http://bioinfostar.com/feed.xml)
 * 微信: 
 
-<img src="http://res.cloudinary.com/dgnsud9ue/image/upload/v1520679324/weixin.jpg" height="300" />
+> <img src="http://res.cloudinary.com/dgnsud9ue/image/upload/v1520679324/weixin.jpg" height="300" />
 
 ## 成果 / Achievements
 
@@ -59,7 +59,7 @@ _Welcome brains coming around_
 
 ## 支持 / Donation
 
-<img src="http://res.cloudinary.com/dgnsud9ue/image/upload/v1520683383/donation.png" height="200" />
+> <img src="http://res.cloudinary.com/dgnsud9ue/image/upload/v1520683383/donation.png" height="200" />
 
 ## 评论 / Comments
 
