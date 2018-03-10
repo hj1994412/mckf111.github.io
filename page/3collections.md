@@ -49,7 +49,6 @@ type: page
 * [Biostars](https://www.biostars.org/)
 * [Bioconductor support](https://support.bioconductor.org/)
 * [Stackoverflow](https://stackoverflow.com/)
-* [生信菜鸟团](http://www.bio-info-trainee.com/)
 * [生信技能树](http://www.biotrainee.com/)
 * [One Tip Per Day](http://onetipperday.sterding.com/)
 * [R-bloggers](https://www.r-bloggers.com)
