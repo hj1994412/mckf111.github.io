@@ -49,7 +49,7 @@ type: page
 * [Biostars](https://www.biostars.org/) (学习交流的好天地，提问必有回应，大师此起彼伏，但注意提问的质量)
 * [Bioconductor support](https://support.bioconductor.org/) (适合向包作者定向提问，同时也是学习的好场所)
 * [Stackoverflow](https://stackoverflow.com/) (有关编程的一切问题，你都能在此找到答案，更多的大师此起彼伏)
-* [生信技能树](http://www.biotrainee.com/) (中文教程颇多，更方便快速上手后现学现卖，质量需自行甄别)
+* [生信技能树](http://www.biotrainee.com/) (中文教程颇多，更方便快速上手后现学现卖)
 * [One Tip Per Day](http://onetipperday.sterding.com/) (基础知识讲解的不错，可以作参考资料)
 * [R-bloggers](https://www.r-bloggers.com) (订阅后可以方便了解R圈的进展)
 
