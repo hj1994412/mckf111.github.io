@@ -18,7 +18,7 @@ type: page
 
 ### 实战(边做边学)/Learning in Action
 
-* [Biostar Handbook](https://www.biostarhandbook.com/)
+* [Biostar Handbook](https://www.biostarhandbook.com/) (零基础入门好帮手，适合纯生物背景)
 
 ### 生物统计入门/Biostatistics for beginner
 
@@ -28,9 +28,9 @@ type: page
 
 ### R语言入门/R language for beginner
 
-* [swirl: Learn R, in R](http://swirlstats.com/)
-* [R in Action](https://www.manning.com/books/r-in-action-second-edition)
-* [The Art of R Programming](https://www.amazon.de/Art-Programming-Statistical-Software-Design/dp/1593273843)
+* [swirl: Learn R, in R](http://swirlstats.com/) (详略得当，趣味入门)
+* [R in Action](https://www.manning.com/books/r-in-action-second-edition) (偏统计，适合有初级统计基础的同学)
+* [The Art of R Programming](https://www.amazon.de/Art-Programming-Statistical-Software-Design/dp/1593273843) (偏编程，比上本更适合入门)
 
 ## 数据库 / Useful Databases
 
@@ -46,12 +46,12 @@ type: page
 
 ## 其他博客论坛推荐/Other recommended blogs and forums 
 
-* [Biostars](https://www.biostars.org/)
-* [Bioconductor support](https://support.bioconductor.org/)
-* [Stackoverflow](https://stackoverflow.com/)
-* [生信技能树](http://www.biotrainee.com/)
-* [One Tip Per Day](http://onetipperday.sterding.com/)
-* [R-bloggers](https://www.r-bloggers.com)
+* [Biostars](https://www.biostars.org/) (学习交流的好天地，提问必有回应，大师此起彼伏，但注意提问的质量)
+* [Bioconductor support](https://support.bioconductor.org/) (适合向包作者定向提问，同时也是学习的好场所)
+* [Stackoverflow](https://stackoverflow.com/) (有关编程的一切问题，你都能在此找到答案，更多的大师此起彼伏)
+* [生信技能树](http://www.biotrainee.com/) (中文教程颇多，更方便快速上手，现学现卖)
+* [One Tip Per Day](http://onetipperday.sterding.com/) (基础知识讲解的不错，可以作参考资料)
+* [R-bloggers](https://www.r-bloggers.com) (订阅后可以方便了解R圈的进展)
 
 ## 大侠 / Some Gods
 
