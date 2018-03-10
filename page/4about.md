@@ -11,7 +11,7 @@ type: page
 
 <audio controls="controls" loop="loop" src="http://res.cloudinary.com/dgnsud9ue/video/upload/v1514900330/cheng_du.mp3">我的歌声</audio>
 
-# 成功只有一条路，那就是坚持，更重要的是，自己能把握住路的方向！
+> # 成事惟有一种方法，那就是**坚持**走下去，而同样重要的是，自己能把握住走的**方向**！
 
 ## 在下 / Informal CV
 
