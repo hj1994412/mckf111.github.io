@@ -11,7 +11,7 @@ type: page
 
 <audio controls="controls" loop="loop" src="http://res.cloudinary.com/dgnsud9ue/video/upload/v1514900330/cheng_du.mp3">我的歌声</audio>
 
-> # 成事，惟一种方法，那就是**坚持**走下去，而同样重要的是，自己要时时把握走的**方向**！不走固然不达，走偏不如不走！二者皆难，求索无止！
+> # **坚持**乃成事不二法门，可同样重要的是，自己还须把握**方向**！不走固然不达，走偏弗如不走！二者皆难，求索无止！
 
 ## 在下 / Informal CV
 
