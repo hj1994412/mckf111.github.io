@@ -38,6 +38,9 @@ Well, now I have made up my mind to enter the bioinformatics world, a real 'dry'
 * GitHub：[mckf111](https://github.com/mckf111)
 * email：<mckf11111@gmail.com>
 * Subscription: [RSS](http://bioinfostar.com/feed.xml)
+* 微信: 
+
+> <img src="http://res.cloudinary.com/dgnsud9ue/image/upload/v1520679324/weixin.jpg" height=200/>
 
 ## 成果 / Achievements
 
@@ -54,6 +57,9 @@ Documenting my progress of learning bioinformatics step by step, in both English
 
 _Welcome brains coming around_
 
+## 支持 / Donation
+
+> <img src="http://res.cloudinary.com/dgnsud9ue/image/upload/v1520683383/donation.png" height=200/>
 
 ## 评论 / Comments
 
