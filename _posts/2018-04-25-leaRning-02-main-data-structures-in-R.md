@@ -21,7 +21,7 @@ When you use your computer to handle all kinds of tasks, like writing, drawing, 
 
 
 
-Computer is designed to manipulate different kinds of huge data, if we just handle that to computer, it will surely cause chaos! Normally we will find and comprehend the relationships among data before, so as to **facilitate the storage and manipulation in computer later. **We need to arrange the data properly and efficiently, this is the origin of data structures. **Data structures include not only the data themselves, but also the relationships among them and a series of manipulation protocols.**
+Computer is designed to manipulate different kinds of huge data, if we just handle that to computer, it will surely cause chaos! Normally we will find and comprehend the relationships among data before, so as to **facilitate the storage and manipulation in computer later.** We need to arrange the data properly and efficiently, this is the origin of data structures. **Data structures include not only the data themselves, but also the relationships among them and a series of manipulation protocols.**
 
 In almost all advanced programming language, we don't need to worry about making data structures by hand, all of them are built-in properties. Let us have a look, what is the main data structures in R: 
 
