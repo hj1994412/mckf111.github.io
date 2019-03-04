@@ -14,6 +14,13 @@ type: page
 * [蓝灯，建议专业版](https://github.com/getlantern/lantern)
 * [bamboo](https://github.com/bannedbook/fanqiang/wiki)
 
+## JAVA自学
+
+* [how2j](http://how2j.cn?p=17031)
+* [前端练手项目](http://how2j.cn/k/tmall-front/tmall-front-790/790.html?p=17031)
+* [SSM框架实践](http://how2j.cn/k/tmall_ssm/tmall_ssm-1399/1399.html?p=17031)
+* [Spring Boot项目练习](http://how2j.cn/k/tmall_springboot/tmall_springboot-1799/1799.html?p=17031)
+
 ## 书籍/Books
 
 ### 实战(边做边学)/Learning in Action
