@@ -7,11 +7,11 @@
 
 # Site settings
 name: Bioinfostar
-description: Bioinformatician-to-be
+description: Full-stacker-to-be
 url: http://bioinfostar.com
 title: Wenhu
-description: NGB
-brief-intro: Next Generation Bioinformatician
+description: NGFE
+brief-intro: Next Generation Full-stacker Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 
 permalink: /:year/:month/:day/:title/
