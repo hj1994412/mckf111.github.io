@@ -14,7 +14,7 @@ type: page
 * [蓝灯，建议专业版](https://github.com/getlantern/lantern)
 * [bamboo](https://github.com/bannedbook/fanqiang/wiki)
 
-## JAVA自学
+## JAVA自学/JAVA projects
 
 * [how2j](http://how2j.cn?p=17031)
 * [前端练手项目](http://how2j.cn/k/tmall-front/tmall-front-790/790.html?p=17031)
