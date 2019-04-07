@@ -23,7 +23,7 @@ type: page
 
 I am a biological PhD graduated from Heidelberg University - DKFZ. Wenhu is my first name, you could interpret it as 'peaceful tiger', in plain English, pretty charming, isn't it?
 
-Well, now I have made up my mind to be a software engineer in the future. I would also love to rebuild my tech-stack from time to time, always enter the so-called panic zones, painful but more wonderful! Proof comes below:
+I would love to rebuild my tech-stack from time to time, always enter the so-called panic zones, painful but more wonderful! Proof comes below:
 
 * 2015.10-2018.10 德国海德堡大学博士 (PhD in Heidelberg University, Deutschland)
 * 2013.08-2015.09 供职南京血液中心，技工 (Java developer and bioinformatician in Red Cross Blood Center, Nanjing, China)
